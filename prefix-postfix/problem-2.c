@@ -6,7 +6,7 @@ int main()
 
     int y = 10;
 
-    printf("Value of x is %d\n", x++); // x = 5
+    printf("Value of x is %d\n", x++); // x = 5 
     printf("Value of y is %d\n", --y); // y = 9
 
     return 0;
